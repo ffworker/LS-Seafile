@@ -76,6 +76,9 @@
 
 ---
 
+## Webhost Config (Strato)
+1. **add entry to Webhost (Ionos/Strato)**.
+2. 
 ## Added to:
 
 - **NGINX**: [http://172.17.3.3:81/nginx/proxy](http://172.17.3.3:81/nginx/proxy)
